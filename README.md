@@ -76,4 +76,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
  Contact
 
-For any inquiries, please reach out to Your Raja(mailto:rajaccet28@gmail.com).
+For any inquiries, please reach out to Your Raja(mailto: rajaccet28@gmail.com ).
